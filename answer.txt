@@ -1,0 +1,137 @@
+=== GROUP BY Date ===
+  >> 8/10/2015 <<
+    Name: น.ส.ฉันท์ชนก ก่ำปั่นทอง | Work: 8.00 hours | Wage: 295.00 Baht
+    Name: น.ส.เรวดี ประสพศิลป | Work: 8.00 hours | Wage: 295.00 Baht
+    Name: นางจันทร์เพ็ญ เดชพล | Work: 8.00 hours | Wage: 295.00 Baht
+    Name: นางจุฑารัตน์ จันทร์วิกูล | Work: 8.00 hours | Wage: 295.00 Baht
+    Name: นางธัญชนก ก้อนเงิน | Work: 8.00 hours | Wage: 295.00 Baht
+    Name: นางรสรินทร์ รุ่งจรูญ | Work: 8.00 hours | Wage: 295.00 Baht
+    Name: นางวิไลวรรณ คณานันท์ | Work: 8.00 hours | Wage: 295.00 Baht
+    Name: นางศิรินันท์ มณีโชติ | Work: 8.00 hours | Wage: 295.00 Baht
+    Name: นางอัปสร เครือละม้าย | Work: 7.90 hours | Wage: 291.31 Baht
+    Name: นายชูพงษ์ สุวรรณพานิช | Work: 8.00 hours | Wage: 295.00 Baht
+    Name: นายธีรยุทธ์ จำปาทอง | Work: 9.53 hours | Wage: 379.81 Baht
+    Name: นายนพรัตน์ บุตตะโคตร | Work: 9.55 hours | Wage: 380.73 Baht
+    Name: นายมนตรี ดีนาน | Work: 9.22 hours | Wage: 362.30 Baht
+    Name: นายเกรียงไกร ชัยศรี | Work: 9.50 hours | Wage: 377.97 Baht
+    Name: นายเชิดชัย จริยะปัญญา | Work: 9.53 hours | Wage: 379.81 Baht
+    Name: นายเอนก ธำรงมาศ | Work: 8.00 hours | Wage: 295.00 Baht
+    (Total hours: 135.23 hours | Total Wage: 5121.94 Baht)
+  >> 9/10/2015 <<
+    Name: น.ส.ฉันท์ชนก ก่ำปั่นทอง | Work: 8.00 hours | Wage: 295.00 Baht
+    Name: น.ส.เรวดี ประสพศิลป | Work: 8.00 hours | Wage: 295.00 Baht
+    Name: นางจันทร์เพ็ญ เดชพล | Work: 8.00 hours | Wage: 295.00 Baht
+    Name: นางจุฑารัตน์ จันทร์วิกูล | Work: 8.00 hours | Wage: 295.00 Baht
+    Name: นางธัญชนก ก้อนเงิน | Work: 8.00 hours | Wage: 295.00 Baht
+    Name: นางรสรินทร์ รุ่งจรูญ | Work: 9.05 hours | Wage: 353.08 Baht
+    Name: นางวิไลวรรณ คณานันท์ | Work: 8.00 hours | Wage: 295.00 Baht
+    Name: นางศิรินันท์ มณีโชติ | Work: 8.00 hours | Wage: 295.00 Baht
+    Name: นางอัปสร เครือละม้าย | Work: 8.00 hours | Wage: 295.00 Baht
+    Name: นายชูพงษ์ สุวรรณพานิช | Work: 9.22 hours | Wage: 362.30 Baht
+    Name: นายธีรยุทธ์ จำปาทอง | Work: 8.08 hours | Wage: 447.11 Baht
+    Name: นายนพรัตน์ บุตตะโคตร | Work: 9.38 hours | Wage: 371.52 Baht
+    Name: นายมนตรี ดีนาน | Work: 9.50 hours | Wage: 377.97 Baht
+    Name: นายเกรียงไกร ชัยศรี | Work: 9.43 hours | Wage: 374.28 Baht
+    Name: นายเชิดชัย จริยะปัญญา | Work: 9.63 hours | Wage: 385.34 Baht
+    Name: นายเอนก ธำรงมาศ | Work: 8.00 hours | Wage: 295.00 Baht
+    (Total hours: 136.30 hours | Total Wage: 5326.59 Baht)
+  >> 10/10/2015 <<
+    Name: น.ส.ฉันท์ชนก ก่ำปั่นทอง | Work: 3.03 hours | Wage: 167.78 Baht
+    Name: น.ส.เรวดี ประสพศิลป | Work: 3.12 hours | Wage: 172.39 Baht
+    Name: นางจันทร์เพ็ญ เดชพล | Work: 8.00 hours | Wage: 442.50 Baht
+    Name: นางจุฑารัตน์ จันทร์วิกูล | Work: 8.00 hours | Wage: 442.50 Baht
+    Name: นางธัญชนก ก้อนเงิน | Work: 8.00 hours | Wage: 442.50 Baht
+    Name: นางรสรินทร์ รุ่งจรูญ | Work: 8.00 hours | Wage: 442.50 Baht
+    Name: นางวิไลวรรณ คณานันท์ | Work: 8.00 hours | Wage: 442.50 Baht
+    Name: นางศิรินันท์ มณีโชติ | Work: 3.13 hours | Wage: 173.31 Baht
+    Name: นางอัปสร เครือละม้าย | Work: 8.00 hours | Wage: 442.50 Baht
+    Name: นายชูพงษ์ สุวรรณพานิช | Work: 8.00 hours | Wage: 442.50 Baht
+    Name: นายธีรยุทธ์ จำปาทอง | Work: 8.00 hours | Wage: 442.50 Baht
+    Name: นายนพรัตน์ บุตตะโคตร | Work: 8.00 hours | Wage: 442.50 Baht
+    Name: นายมนตรี ดีนาน | Work: 3.25 hours | Wage: 179.77 Baht
+    Name: นายเกรียงไกร ชัยศรี | Work: 12.57 hours | Wage: 926.79 Baht
+    Name: นายเชิดชัย จริยะปัญญา | Work: 8.00 hours | Wage: 442.50 Baht
+    Name: นายเอนก ธำรงมาศ | Work: 8.00 hours | Wage: 442.50 Baht
+    (Total hours: 113.10 hours | Total Wage: 6487.54 Baht)
+
+=== GROUP BY Employee ===
+  >> นายธีรยุทธ์ จำปาทอง <<
+    Date: 8/10/2015 | Work: 9.53 hours | Wage: 379.81 Baht
+    Date: 9/10/2015 | Work: 8.08 hours | Wage: 447.11 Baht
+    Date: 10/10/2015 | Work: 8.00 hours | Wage: 442.50 Baht
+    (Total hours: 25.62 hours | Total Wage: 1269.42 Baht)
+  >> นายมนตรี ดีนาน <<
+    Date: 8/10/2015 | Work: 9.22 hours | Wage: 362.30 Baht
+    Date: 9/10/2015 | Work: 9.50 hours | Wage: 377.97 Baht
+    Date: 10/10/2015 | Work: 3.25 hours | Wage: 179.77 Baht
+    (Total hours: 21.97 hours | Total Wage: 920.03 Baht)
+  >> นางวิไลวรรณ คณานันท์ <<
+    Date: 8/10/2015 | Work: 8.00 hours | Wage: 295.00 Baht
+    Date: 9/10/2015 | Work: 8.00 hours | Wage: 295.00 Baht
+    Date: 10/10/2015 | Work: 8.00 hours | Wage: 442.50 Baht
+    (Total hours: 24.00 hours | Total Wage: 1032.50 Baht)
+  >> น.ส.เรวดี ประสพศิลป <<
+    Date: 8/10/2015 | Work: 8.00 hours | Wage: 295.00 Baht
+    Date: 9/10/2015 | Work: 8.00 hours | Wage: 295.00 Baht
+    Date: 10/10/2015 | Work: 3.12 hours | Wage: 172.39 Baht
+    (Total hours: 19.12 hours | Total Wage: 762.39 Baht)
+  >> นายนพรัตน์ บุตตะโคตร <<
+    Date: 8/10/2015 | Work: 9.55 hours | Wage: 380.73 Baht
+    Date: 9/10/2015 | Work: 9.38 hours | Wage: 371.52 Baht
+    Date: 10/10/2015 | Work: 8.00 hours | Wage: 442.50 Baht
+    (Total hours: 26.93 hours | Total Wage: 1194.75 Baht)
+  >> นายเอนก ธำรงมาศ <<
+    Date: 8/10/2015 | Work: 8.00 hours | Wage: 295.00 Baht
+    Date: 9/10/2015 | Work: 8.00 hours | Wage: 295.00 Baht
+    Date: 10/10/2015 | Work: 8.00 hours | Wage: 442.50 Baht
+    (Total hours: 24.00 hours | Total Wage: 1032.50 Baht)
+  >> นางจันทร์เพ็ญ เดชพล <<
+    Date: 8/10/2015 | Work: 8.00 hours | Wage: 295.00 Baht
+    Date: 9/10/2015 | Work: 8.00 hours | Wage: 295.00 Baht
+    Date: 10/10/2015 | Work: 8.00 hours | Wage: 442.50 Baht
+    (Total hours: 24.00 hours | Total Wage: 1032.50 Baht)
+  >> นางอัปสร เครือละม้าย <<
+    Date: 8/10/2015 | Work: 7.90 hours | Wage: 291.31 Baht
+    Date: 9/10/2015 | Work: 8.00 hours | Wage: 295.00 Baht
+    Date: 10/10/2015 | Work: 8.00 hours | Wage: 442.50 Baht
+    (Total hours: 23.90 hours | Total Wage: 1028.81 Baht)
+  >> นางธัญชนก ก้อนเงิน <<
+    Date: 8/10/2015 | Work: 8.00 hours | Wage: 295.00 Baht
+    Date: 9/10/2015 | Work: 8.00 hours | Wage: 295.00 Baht
+    Date: 10/10/2015 | Work: 8.00 hours | Wage: 442.50 Baht
+    (Total hours: 24.00 hours | Total Wage: 1032.50 Baht)
+  >> นางรสรินทร์ รุ่งจรูญ <<
+    Date: 8/10/2015 | Work: 8.00 hours | Wage: 295.00 Baht
+    Date: 9/10/2015 | Work: 9.05 hours | Wage: 353.08 Baht
+    Date: 10/10/2015 | Work: 8.00 hours | Wage: 442.50 Baht
+    (Total hours: 25.05 hours | Total Wage: 1090.58 Baht)
+  >> นายชูพงษ์ สุวรรณพานิช <<
+    Date: 8/10/2015 | Work: 8.00 hours | Wage: 295.00 Baht
+    Date: 9/10/2015 | Work: 9.22 hours | Wage: 362.30 Baht
+    Date: 10/10/2015 | Work: 8.00 hours | Wage: 442.50 Baht
+    (Total hours: 25.22 hours | Total Wage: 1099.80 Baht)
+  >> นางจุฑารัตน์ จันทร์วิกูล <<
+    Date: 8/10/2015 | Work: 8.00 hours | Wage: 295.00 Baht
+    Date: 9/10/2015 | Work: 8.00 hours | Wage: 295.00 Baht
+    Date: 10/10/2015 | Work: 8.00 hours | Wage: 442.50 Baht
+    (Total hours: 24.00 hours | Total Wage: 1032.50 Baht)
+  >> นายเชิดชัย จริยะปัญญา <<
+    Date: 8/10/2015 | Work: 9.53 hours | Wage: 379.81 Baht
+    Date: 9/10/2015 | Work: 9.63 hours | Wage: 385.34 Baht
+    Date: 10/10/2015 | Work: 8.00 hours | Wage: 442.50 Baht
+    (Total hours: 27.17 hours | Total Wage: 1207.66 Baht)
+  >> น.ส.ฉันท์ชนก ก่ำปั่นทอง <<
+    Date: 8/10/2015 | Work: 8.00 hours | Wage: 295.00 Baht
+    Date: 9/10/2015 | Work: 8.00 hours | Wage: 295.00 Baht
+    Date: 10/10/2015 | Work: 3.03 hours | Wage: 167.78 Baht
+    (Total hours: 19.03 hours | Total Wage: 757.78 Baht)
+  >> นายเกรียงไกร ชัยศรี <<
+    Date: 8/10/2015 | Work: 9.50 hours | Wage: 377.97 Baht
+    Date: 9/10/2015 | Work: 9.43 hours | Wage: 374.28 Baht
+    Date: 10/10/2015 | Work: 12.57 hours | Wage: 926.79 Baht
+    (Total hours: 31.50 hours | Total Wage: 1679.04 Baht)
+  >> นางศิรินันท์ มณีโชติ <<
+    Date: 8/10/2015 | Work: 8.00 hours | Wage: 295.00 Baht
+    Date: 9/10/2015 | Work: 8.00 hours | Wage: 295.00 Baht
+    Date: 10/10/2015 | Work: 3.13 hours | Wage: 173.31 Baht
+    (Total hours: 19.13 hours | Total Wage: 763.31 Baht)
